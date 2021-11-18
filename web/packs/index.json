@@ -1,6 +1,6 @@
 {
   "packs": [
-    
+    "bondagepack.json"
   ],
   "homeserver_url": "https://matrix.owncloud-uniprojects.ddnsfree.com"
 }
