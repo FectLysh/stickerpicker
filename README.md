@@ -1,3 +1,6 @@
+ # <!!! THIS PACK CONTAINS 18+ CONTENT! BY VISTING OR USING THIS REPO YOU ARE AGREE THAT YOU ARE 18 YEARS OR OLDER! !!!> #
+
+
 # Maunium sticker picker
 A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS.
 
