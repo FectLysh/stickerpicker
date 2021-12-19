@@ -1,13 +1,13 @@
- ### THIS PACK CONTAINS 18+ CONTENT! BY VISTING OR USING THIS REPO YOU ARE AGREE THAT YOU ARE 18 YEARS OR OLDER!
+ # THIS PACK CONTAINS 18+ CONTENT! BY VISTING OR USING THIS REPO YOU ARE AGREE THAT YOU ARE 18 YEARS OR OLDER!
 
 
-# Maunium sticker picker
+## Maunium sticker picker
 A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS.
 
-## Discussion
+### Discussion
 Matrix room: [`#stickerpicker:maunium.net`](https://matrix.to/#/#stickerpicker:maunium.net)
 
-## Instructions
+### Instructions
 For setup and usage instructions, please visit the [wiki](https://github.com/maunium/stickerpicker/wiki):
 
 * [Creating packs](https://github.com/maunium/stickerpicker/wiki/Creating-packs)
@@ -16,7 +16,7 @@ For setup and usage instructions, please visit the [wiki](https://github.com/mau
 
 If you prefer video tutorials, [Brodie Robertson](https://www.youtube.com/c/BrodieRobertson) has made a great video on setting up the picker and creating some packs: https://youtu.be/Yz3H6KJTEI0.
 
-## Comparison with other sticker pickers
+### Comparison with other sticker pickers
 
 * Scalar is the default integration manager in Element, which can't be self-hosted and only supports predefined sticker packs.
 * [Dimension](https://github.com/turt2live/matrix-dimension) is an alternate integration manager. It can be self-hosted, but it's more difficult than Maunium sticker picker.
@@ -33,12 +33,12 @@ If you prefer video tutorials, [Brodie Robertson](https://www.youtube.com/c/Brod
 
 [#7]: https://github.com/maunium/stickerpicker/issues/7
 
-## Preview
-### Element Web
+### Preview
+#### Element Web
 ![Element Web](preview-element-web.png)
 
-### Element Android
+#### Element Android
 ![Element Android](preview-element-android.png)
 
-### Element iOS (dark theme)
+#### Element iOS (dark theme)
 ![Element iOS](preview-element-ios.png)
